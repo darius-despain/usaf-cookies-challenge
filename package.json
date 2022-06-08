@@ -1,0 +1,26 @@
+{
+  "name": "cookies-challenge",
+  "version": "1.0.0",
+  "description": "repo for cookies challenge on galvanize learn material Cookies lesson",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darius-despain/usaf-cookies-challenge.git"
+  },
+  "author": "Darius DeSpain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darius-despain/usaf-cookies-challenge/issues"
+  },
+  "homepage": "https://github.com/darius-despain/usaf-cookies-challenge#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
+  }
+}
